@@ -13,11 +13,12 @@ public class MainClass {
 
 	System.out.println("Hello WOrld");
 	
-	try{
+		try{
 	
-		int x = 10/4;
+			int x = 10/4;
+			System.out.println("Hello WOrld: " + x);
 	
-	}catch(Exception e){
-	}
+		}catch(Exception e){
+		}
 	}
 }
