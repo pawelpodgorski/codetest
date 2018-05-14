@@ -13,7 +13,7 @@ class dogClass():
         
     def bark(self):
         print('woof, woof, woof')
-        
+		print('how, how, how')
     def getDogInfo(self):
         return self.name + ' : '
         
