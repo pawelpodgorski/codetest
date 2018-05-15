@@ -14,6 +14,7 @@ class dogClass():
     def bark(self):
         print('woof, woof, woof')
 		print('how, how, how')
+		print('mial, mial, mial')
     def getDogInfo(self):
         return self.name + ' : '
         
